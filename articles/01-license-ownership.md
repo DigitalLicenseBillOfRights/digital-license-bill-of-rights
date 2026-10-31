@@ -34,10 +34,20 @@ The license entitlement survives a storefront's or publisher's closure, dissolut
 
 A business event or the failure of an intermediary does not, by itself, extinguish a permanent purchase.
 
-## Section 6. Uniform baseline
+## Section 6. Inheritance and Succession
+
+1. A qualifying permanent license entitlement recognized under this Act constitutes inheritable personal property and shall pass upon the consumer's death in accordance with the consumer's valid will, applicable estate law, or applicable laws of intestate succession.
+2. A publisher, storefront, distributor, or other covered entity may not terminate, revoke, deactivate, or materially restrict a qualifying permanent license solely because its owner has died.
+3. An executor, administrator, personal representative, or other legally authorized representative of the deceased consumer's estate shall have the authority to preserve, administer, and transfer the license entitlement in accordance with applicable estate law and this Act.
+4. An heir or lawful beneficiary receiving a license through inheritance shall receive the same license entitlement and associated statutory rights held by the deceased consumer, subject to the original license's platform designation, compatibility limitations, and applicable restrictions.
+5. No publisher, storefront, or intermediary may require an heir or estate to repurchase the license or pay an inheritance, succession, activation, or transfer fee as a condition of exercising inherited rights.
+6. Inheritance shall not create additional licenses or authorize simultaneous use beyond the concurrency rights associated with the original entitlement.
+7. The rights established by this Section are non-waivable and may not be diminished by an end-user license agreement, terms of service, account policy, or other contractual provision.
+
+## Section 7. Uniform baseline
 
 The statutory baseline applies without arbitrary distinction based on purchase price, edition, publisher, storefront, distribution method, or whether the license was obtained individually or as an identifiable component of a bundle.
 
-## Section 7. Effective application
+## Section 8. Effective application
 
 The rights in this Article attach on the Act's effective date to all qualifying permanent licenses within the Act's scope, including qualifying purchases made before that date. A business implementation period may not postpone the consumer's acquisition or exercise of those rights.

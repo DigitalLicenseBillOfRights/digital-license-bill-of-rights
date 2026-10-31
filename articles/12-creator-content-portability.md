@@ -62,3 +62,14 @@
 ## Section 7. Implementation
 
 Providers shall implement reasonable export procedures, format support, and cancellation notices consistent with this Article. Technical implementation deadlines may be phased, but shall not suspend, waive, or diminish the consumer rights established herein.
+
+## Section 8. Inheritance and Estate Access to Creator-Generated Content
+
+1. Creator-generated content remains the creator's property, to the extent recognized under applicable law, and may pass to the creator's heirs, beneficiaries, or estate in accordance with applicable estate law.
+2. A covered provider may not claim ownership of, delete, or deny reasonable access to creator-generated content solely because the creator has died.
+3. An executor, administrator, personal representative, or other legally authorized representative of the creator's estate shall have a reasonable opportunity to access, preserve, and export the creator-generated content for estate administration and transfer to lawful heirs or beneficiaries.
+4. Providers shall establish reasonable procedures for verifying the authority of an estate representative and facilitating access and export without requiring the representative to assume the deceased creator's personal identity or credentials.
+5. Following verification of the estate representative's authority, the provider shall preserve access to the creator-generated content and provide a reasonable opportunity to export it for a minimum of ninety (90) full calendar days. This period shall begin on the calendar day following the date the provider verifies the representative's authority. Providers may allow a longer period.
+6. Estate access and export shall not require subscription renewal, repurchase of the service, or an avoidable inheritance, retrieval, or access fee.
+7. This Section does not require a provider to transfer ownership of its software, proprietary tools, or third-party intellectual property, or to provide access to content the creator did not own or have lawful rights to transfer.
+8. Nothing in this Section requires perpetual storage or perpetual service operation. However, a provider shall provide the minimum estate access and export period established here and shall not use the creator's death as a basis for immediate deletion or forfeiture.

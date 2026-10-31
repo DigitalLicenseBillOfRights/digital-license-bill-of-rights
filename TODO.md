@@ -20,6 +20,8 @@ This list distinguishes unresolved implementation details from settled policy ch
 - [ ] Define standards for commonly usable final and editable export formats, multiple-format support, and preservation of project structure and components under Article XII.
 - [ ] Clarify how Article XII export obligations apply when provider-owned or third-party assets cannot lawfully be redistributed, including practical disclosure and substitution or relinking procedures where feasible.
 - [ ] Define a workable method for calculating and notifying the seven-full-calendar-day post-subscription export period, including treatment of outages or other circumstances that prevent meaningful export during that period.
+- [ ] Establish reasonable procedures for verifying estate representatives, identifying and recording inherited license entitlements, and handling deceased account holders without requiring heirs or representatives to assume the deceased person's identity or credentials.
+- [ ] Define procedures and notice requirements for the separate 90-full-calendar-day minimum estate access and export period for creator-generated content, including the verification date that starts the period and treatment of provider delays or outages.
 
 ## Enforcement and procedure
 

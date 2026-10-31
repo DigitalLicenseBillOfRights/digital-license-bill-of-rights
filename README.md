@@ -44,7 +44,9 @@ The proposal creates a distinct statutory property interest in the consumer's qu
 - Consumers may set and negotiate any resale price. A 5% cap applies only to combined fees charged by a storefront operating its own optional resale marketplace.
 - A genuine platform-generation change is distinguished from a mid-generation hardware refresh.
 - The draft addresses preservation and community continuity when essential online services are materially unavailable or permanently discontinued.
-- Creative subscription services must provide continuous, non-waivable export rights for creator content, including usable final and editable formats and multiple formats where technically feasible, plus at least seven full calendar days after paid access ends to export content.
+- Qualifying permanent software license entitlements are inheritable personal property, subject to the original entitlement's platform, compatibility, and concurrency limits; inheritance is distinct from resale or voluntary transfer.
+- Creator-generated content remains the creator's property to the extent recognized under applicable law and may pass through an estate. Verified estate representatives receive at least 90 full calendar days to access and export that content.
+- Creative subscription services must provide continuous, non-waivable export rights for creator content, including usable final and editable formats and multiple formats where technically feasible, plus at least seven full calendar days after paid access ends to export content. The seven-day minimum for ordinary subscription expiration is distinct from the 90-day estate-access minimum.
 - Providers retain their legitimate intellectual property, and the proposal does not impose unlimited storage obligations.
 
 ## Reuse and licensing

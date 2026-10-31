@@ -55,10 +55,19 @@ Essential online service material unavailability is measured by either 30 consec
 - No subscription renewal, product purchase, avoidable retrieval fee, or additional storage upgrade may be required to export content maintained within the consumer's applicable service storage allowance.
 - No unlimited storage or perpetual post-subscription export obligation is created. Existing applicable service storage limits remain in place.
 
-## 12. Reuse license remains undecided
+## 12. Inheritance of permanent license entitlements and creator content
+
+- A qualifying permanent software license entitlement is inheritable personal property and passes under a valid will or applicable estate and intestacy law.
+- Inheritance is a transfer by operation of law, distinct from sale, gift, lending, or voluntary transfer. It does not trigger resale commissions or marketplace fees and does not create additional licenses or concurrency rights.
+- Heirs and lawful beneficiaries receive the same entitlement and statutory rights, subject to the original platform designation, compatibility limits, and concurrency restrictions. Estate representatives must have reasonable procedures to verify authority and record succession.
+- Creator-generated content may pass to heirs, beneficiaries, or the creator's estate to the extent recognized under applicable law. Providers may not delete or deny reasonable access solely because the creator has died.
+- After verifying an estate representative's authority, a provider must allow at least 90 full calendar days for estate access and export, beginning the following calendar day. This is separate from the seven-full-calendar-day minimum after ordinary paid subscription access ends.
+- Estate access does not require subscription renewal, repurchase, or an avoidable inheritance, retrieval, or access fee. No perpetual storage or service operation is required.
+
+## 13. Reuse license remains undecided
 
 No LICENSE file is included. A public repository is not itself a grant of permission to reuse project text. The repository owner will decide separately whether and how to license the draft.
 
-## 13. Mandatory compliance-by date remains open
+## 14. Mandatory compliance-by date remains open
 
 A definite final compliance-by date and phased deadlines must be established by the sponsoring legislator and legislative counsel. No date has been invented in this draft.
