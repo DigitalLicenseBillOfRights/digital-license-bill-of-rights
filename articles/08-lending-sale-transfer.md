@@ -4,7 +4,7 @@
 
 A qualifying permanent license is a transferable asset. A consumer may lend, sell, gift, or otherwise permanently transfer the license entitlement as provided in this Article.
 
-## Section 3. Inheritance as a Distinct Form of Succession
+## Section 2. Inheritance as a Distinct Form of Succession
 
 1. Inheritance of a qualifying permanent license is a transfer by operation of law and is distinct from a sale, gift, loan, or voluntary transfer by the consumer.
 2. A license passing through inheritance shall not be treated as a commercial resale, voluntary surrender, or abandonment of the entitlement.
@@ -13,7 +13,7 @@ A qualifying permanent license is a transferable asset. A consumer may lend, sel
 5. No marketplace fee, resale commission, or voluntary transfer fee may be imposed solely because a license passes through inheritance.
 6. Inherited licenses remain subject to the original entitlement's applicable concurrency limits and other lawful restrictions. Inheritance does not create additional licenses.
 
-## Section 4. Permanent transfer
+## Section 3. Permanent transfer
 
 A permanent transfer conveys the entire applicable license entitlement and the statutory rights associated with it. Upon completion, the transferor relinquishes the entitlement and may not continue using the software under that transferred license.
 
@@ -55,7 +55,7 @@ A publisher, storefront, or intermediary may not charge a transfer fee for:
 
 Taxes required by law may be collected if separately identified and accurately calculated. A genuinely optional service independently requested by the consumer is not a transfer fee, provided it is not required to complete the transaction or exercise statutory rights. No entity may disguise a transfer fee as a tax, service charge, processing charge, or other label.
 
-## Section 11. Bundles and dependent content
+## Section 10. Bundles and dependent content
 
 A bundle's actual functional structure determines how its components transfer.
 
