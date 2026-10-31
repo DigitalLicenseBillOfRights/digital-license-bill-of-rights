@@ -17,6 +17,9 @@ This list distinguishes unresolved implementation details from settled policy ch
 - [ ] Define material unavailability, essential online service, and reliable sustained restoration.
 - [ ] Define reasonable interim compliance and technically feasible preservation measures.
 - [ ] Clarify evidentiary standards for license ownership and transfer without requiring dependence on one storefront account.
+- [ ] Define standards for commonly usable final and editable export formats, multiple-format support, and preservation of project structure and components under Article XII.
+- [ ] Clarify how Article XII export obligations apply when provider-owned or third-party assets cannot lawfully be redistributed, including practical disclosure and substitution or relinking procedures where feasible.
+- [ ] Define a workable method for calculating and notifying the seven-full-calendar-day post-subscription export period, including treatment of outages or other circumstances that prevent meaningful export during that period.
 
 ## Enforcement and procedure
 
@@ -32,6 +35,7 @@ This list distinguishes unresolved implementation details from settled policy ch
 - [ ] Test the backup, authentication, transfer, family-sharing, and community-server provisions against real-world architectures.
 - [ ] Ensure security and privacy safeguards are not used as pretexts to defeat statutory rights, while preserving legitimate security requirements.
 - [ ] Review treatment of cloud-native products and functions that inherently require remote infrastructure.
+- [ ] Test creator-content export requirements against representative creative services and project types, including dependencies, linked assets, metadata, and accessibility of exported formats.
 
 ## Publication note
 

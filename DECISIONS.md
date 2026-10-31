@@ -42,10 +42,23 @@ Personal backup and preservation rights do not authorize public distribution, cr
 
 Essential online service material unavailability is measured by either 30 consecutive calendar days or 90 cumulative days in a rolling 365-day period. The threshold triggers preservation and continuity obligations; it does not automatically shut down official servers or require source-code disclosure.
 
-## 11. Reuse license remains undecided
+## 11. Creator content ownership and portability
+
+- Creator-generated content remains the creator's intellectual property to the extent recognized under applicable law. A creative subscription does not, by itself, transfer ownership of that content to the provider.
+- Export is continuously available throughout an active subscription; it is not limited to cancellation or account termination.
+- Export is non-waivable and must be straightforward and reasonably accessible.
+- Export should include a commonly usable final format and an editable project format where technically feasible. Multiple commonly used formats are required where technically feasible and appropriate.
+- Relevant project structure, layers, metadata, and creator-owned components should be preserved where technically feasible and legally permissible.
+- Providers retain their legitimate rights in software, proprietary tools, trade secrets, and proprietary assets. Public-domain or freely available assets may not be claimed as the provider's exclusive property when the applicable terms permit continued use and export. No-cost availability alone does not eliminate copyright or license restrictions.
+- Providers must identify and explain excluded provider-owned or third-party assets where technically feasible when those assets cannot lawfully be included in an export.
+- Creators receive at least seven full calendar days to export content after paid subscription access ends. The period begins on the calendar day following the end of paid access. Longer periods are permitted.
+- No subscription renewal, product purchase, avoidable retrieval fee, or additional storage upgrade may be required to export content maintained within the consumer's applicable service storage allowance.
+- No unlimited storage or perpetual post-subscription export obligation is created. Existing applicable service storage limits remain in place.
+
+## 12. Reuse license remains undecided
 
 No LICENSE file is included. A public repository is not itself a grant of permission to reuse project text. The repository owner will decide separately whether and how to license the draft.
 
-## 12. Mandatory compliance-by date remains open
+## 13. Mandatory compliance-by date remains open
 
 A definite final compliance-by date and phased deadlines must be established by the sponsoring legislator and legislative counsel. No date has been invented in this draft.

@@ -24,6 +24,7 @@ The proposal's central rule is **minimums, not maximums**: statutory rights are 
 - [Article IX — Corporate Continuity and Ownership Preservation](articles/09-corporate-continuity.md)
 - [Article X — Server Independence and Community Continuity](articles/10-server-independence.md)
 - [Article XI — Enforcement, Legal Scope, and Non-waiver](articles/11-enforcement.md)
+- [Article XII — Creator Content Ownership and Portability](articles/12-creator-content-portability.md)
 - [Founding Principles](documents/founding-principles.md)
 - [Open Letter](documents/open-letter.md)
 - [Manifesto](documents/manifesto.md)
@@ -43,7 +44,8 @@ The proposal creates a distinct statutory property interest in the consumer's qu
 - Consumers may set and negotiate any resale price. A 5% cap applies only to combined fees charged by a storefront operating its own optional resale marketplace.
 - A genuine platform-generation change is distinguished from a mid-generation hardware refresh.
 - The draft addresses preservation and community continuity when essential online services are materially unavailable or permanently discontinued.
-- Publishers retain their intellectual property.
+- Creative subscription services must provide continuous, non-waivable export rights for creator content, including usable final and editable formats and multiple formats where technically feasible, plus at least seven full calendar days after paid access ends to export content.
+- Providers retain their legitimate intellectual property, and the proposal does not impose unlimited storage obligations.
 
 ## Reuse and licensing
 
